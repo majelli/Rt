@@ -54,13 +54,6 @@ int main(int argc, char *argv[]){
   }
   n = i-1;
 
-  /*
-    for(i=0; i<n; i++){
-    fprintf(stderr, "%d %d %d\n", i, data[i], imp[i]);
-    }
-    exit(1);
-  */
-
   // read Tg
   fp = fopen(argv[4],"r");
   i = 0;
