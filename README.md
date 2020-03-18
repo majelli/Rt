@@ -1,2 +1,2 @@
 # Rt
-C code for Bayesian estimate of Rt
+C code for Bayesian estimations of Rt
